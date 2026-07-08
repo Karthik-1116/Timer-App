@@ -1,0 +1,6 @@
+{
+  "name": "Pomodoro Timer",
+  "description": "A elegant single-screen Pomodoro timer with configurable work/break cycles, circular visual progress, task tracking, and gentle audio alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
